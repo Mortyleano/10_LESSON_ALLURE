@@ -14,7 +14,3 @@ build/
 
 ### Logs ###
 *.log
-
-### GitHub ###
-.github/workflows
-*.yml
