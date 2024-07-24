@@ -8,7 +8,7 @@ import pages.MainPage;
 import pages.Repository;
 import pages.SearchResults;
 
-import static com.codeborne.selenide.logevents.SelenideLogger.step;
+import static io.qameta.allure.Allure.step;
 
 public class CheckSearchIssueNumberWithLambdaTest extends TestBase {
 
